@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/thomkell)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/thomkell)
 
-I am Thomas 😎. I am passionate about technologies💻 and obsessed with the idea of improving myself and want to grow and excel in it🚀. I love to explore and continuously learn new things.
+I am Thomas 😎. I am passionate about data science and machine learning💻 and obsessed with the idea of improving myself and want to grow and excel in it🚀. I love to explore and highly motivated and committed to continuous learning.
 
 ![GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
