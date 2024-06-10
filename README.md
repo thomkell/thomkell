@@ -1,6 +1,4 @@
 
-# Thomas
-
 Hi there 👋, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/thomkell)
