@@ -25,11 +25,6 @@ I’m Thomas 😎. I’m passionate about data science and machine learning, wit
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
-<!-- ## Featured Projects
-
-- **[Project Name](#):** A brief description of one of your standout projects. Highlight the tech stack used and the problem it solves.
-- **[Project Name](#):** Another project, with a focus on your role and the impact of the work.
--->
 
 ## Get in Touch
 
@@ -38,14 +33,3 @@ Feel free to reach out if you'd like to collaborate or just want to connect. I�
 - 📫 How to reach me: [Email](mailto:th.h.keller@gmail.com)
 - 💬 Ask me about: Data Science, Machine Learning, Python, Generative AI
 
-<!--
-**thomkell/thomkell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
--->
