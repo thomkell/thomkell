@@ -5,8 +5,6 @@
 
 I’m Thomas 😎. I’m passionate about data science and machine learning, with a strong commitment to continuous learning and exploration. My journey in tech has been driven by curiosity and a desire to innovate through data-driven solutions. 🚀
 
-![GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-
 ## Technologies
 
 - **Front-End Development:** HTML, CSS, Bootstrap
@@ -29,7 +27,4 @@ I’m Thomas 😎. I’m passionate about data science and machine learning, wit
 ## Get in Touch
 
 Feel free to reach out if you'd like to collaborate or just want to connect. I’m always open to new opportunities and discussions.
-
-- 📫 How to reach me: [Email](mailto:th.h.keller@gmail.com)
-- 💬 Ask me about: Data Science, Machine Learning, Python, Generative AI
 
