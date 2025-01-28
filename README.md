@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/thomkell)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/thomkell)
 
-I’m Thomas 😎. I’m passionate about data science and machine learning, with a strong commitment to continuous learning and exploration. My journey in tech has been driven by curiosity and a desire to innovate through data-driven solutions. 🚀
+I’m Thomas. I’m passionate about data science and machine learning, with a strong commitment to continuous learning and exploration. My journey in tech has been driven by curiosity and a desire to innovate through data-driven solutions. 🚀
 
 ## Technologies
 
